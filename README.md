@@ -44,3 +44,7 @@ Document/
 
 ---
 
+## 学習サイト
+
+下記サイトでクイズ形式で学べるのでつかってみてください。
+[生成AIパスポート対策サイト](https://www.megabou.net/Generative-AI-Passport-Support/)
